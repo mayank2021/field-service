@@ -1,0 +1,51 @@
+export const taskData = [
+  {
+    date: "10/6/2022",
+    time1: "12:00 AM",
+    time2: "01:00 AM",
+    title: "Router Setup",
+    id: "W77282T0012",
+  },
+  {
+    date: "11/6/2022",
+    time1: "07:00 PM",
+    time2: "10:00 PM",
+    title: "Install UPS",
+    id: "W77282T0012",
+  },
+  {
+    date: "14/6/2022",
+    time1: "12:00 AM",
+    time2: "01:00 AM",
+    title: "Router Setup",
+    id: "W77282T0012",
+  },
+  {
+    date: "14/6/2022",
+    time1: "07:00 PM",
+    time2: "10:00 PM",
+    title: "Install UPS",
+    id: "W77282T0012",
+  },
+  {
+    date: "15/6/2022",
+    time1: "12:00 AM",
+    time2: "01:00 AM",
+    title: "Router Setup",
+    id: "W77282T0012",
+  },
+  {
+    date: "16/6/2022",
+    time1: "07:00 PM",
+    time2: "10:00 PM",
+    title: "Install UPS",
+    id: "W77282T0012",
+  },
+  {
+    date: "16/6/2022",
+    time1: "12:00 AM",
+    time2: "01:00 AM",
+    title: "Router Setup",
+    id: "W77282T0012",
+  },
+];

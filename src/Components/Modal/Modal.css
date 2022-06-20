@@ -1,0 +1,43 @@
+.modal-main--container{
+    background-color: white;
+    position: fixed;
+    overflow: hidden;
+    width: 293px;
+    height: 470px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    z-index: 100;
+    position: relative;
+}
+
+.modal-heading{
+    font-size: 1.2rem;
+    padding: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.cancel-modal--button{
+    border:none;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    font-size: 0.8rem;
+    font-weight: bold;
+    padding: 5px;
+    width: 28px;
+    height: 28px;
+    border-radius: 500px;
+    cursor: pointer;
+    position: absolute;
+    top:5px;
+    right:2px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 15px 0 rgba(0, 0, 0, 0.19);
+}
+
+.part-modal--container{
+display: flex;
+flex-direction: column;
+width: 293px;
+/* height: 470px; */
+}

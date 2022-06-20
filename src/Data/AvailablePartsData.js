@@ -1,0 +1,92 @@
+export const availablePartsData = [
+  {
+    modelName: " WaveShare 25v Sensor",
+    quantity: "44",
+    state: "In stock",
+    subState: "Available",
+  },
+  {
+    modelName: "Dynex 6 foot USB 2.0 A/B cable",
+    quantity: "24",
+    state: "In stock",
+    subState: "Available",
+  },
+  {
+    modelName: "Hurley Replacement Filter",
+    quantity: "60",
+    state: "In stock",
+    subState: "Available",
+  },
+  {
+    modelName: "25A Blade Fuse",
+    quantity: "16",
+    state: "In stock",
+    subState: "Available",
+  },
+  {
+    modelName: "Router Cooling Fan",
+    quantity: "45",
+    state: "In stock",
+    subState: "Available",
+  },
+  {
+    modelName: " WaveShare 25v Sensor",
+    quantity: "44",
+    state: "In stock",
+    subState: "Available",
+  },
+  {
+    modelName: "Dynex 6 foot USB 2.0 A/B cable",
+    quantity: "24",
+    state: "In stock",
+    subState: "Available",
+  },
+  {
+    modelName: "Hurley Replacement Filter",
+    quantity: "60",
+    state: "In stock",
+    subState: "Available",
+  },
+  {
+    modelName: "25A Blade Fuse",
+    quantity: "16",
+    state: "In stock",
+    subState: "Available",
+  },
+  {
+    modelName: "Router Cooling Fan",
+    quantity: "45",
+    state: "In stock",
+    subState: "Available",
+  },
+  {
+    modelName: " WaveShare 25v Sensor",
+    quantity: "44",
+    state: "In stock",
+    subState: "Available",
+  },
+  {
+    modelName: "Dynex 6 foot USB 2.0 A/B cable",
+    quantity: "24",
+    state: "In stock",
+    subState: "Available",
+  },
+  {
+    modelName: "Hurley Replacement Filter",
+    quantity: "60",
+    state: "In stock",
+    subState: "Available",
+  },
+  {
+    modelName: "25A Blade Fuse",
+    quantity: "16",
+    state: "In stock",
+    subState: "Available",
+  },
+  {
+    modelName: "Router Cooling Fan",
+    quantity: "45",
+    state: "In stock",
+    subState: "Available",
+  },
+];

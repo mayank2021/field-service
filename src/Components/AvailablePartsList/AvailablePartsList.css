@@ -1,0 +1,31 @@
+.availableparts-list--container{
+ border: 1.5px solid rgba(0,0,0,0.5);
+ border-radius: 3px;
+ margin: 10px;
+ padding: 5px;
+}
+.availableparts-list--heading{
+font-size: 0.7rem;
+font-weight: 500;
+color: rgba(0,0,0,0.5);
+margin: 2px 0;
+}
+
+.availableparts-list--highlighted{
+font-weight: bold;
+color: rgba(0,0,0,0.8);
+margin: 0 5px;
+}
+
+.availableparts-list--last-container{
+display: flex;
+align-items: center;
+}
+
+.availableparts-list--mid-list{
+    width: 2px;
+    height: 12px;
+    border-radius: 50px;
+    margin-right: 5px;
+    background-color: rgba(0,0,0,0.7);
+}

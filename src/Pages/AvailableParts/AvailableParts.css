@@ -1,0 +1,13 @@
+.available-part-main--container{
+    overflow-y: scroll;
+    height: 470px;
+}
+
+.available-part-main--container::-webkit-scrollbar{
+ width: 7px;
+}
+
+.available-part-main--container::-webkit-scrollbar-thumb {
+    background: rgba(0,0,0,0.4);
+    border-radius: 5px; 
+  }

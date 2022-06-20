@@ -1,0 +1,130 @@
+.task-listv2--main{
+    padding: 5px 10px;
+    border: 1px solid #006DEA;
+    margin: 5px;
+    border-radius: 4px;
+    position: relative;
+}
+
+.required-part--button{
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    font-size: 0.5rem !important;
+    width: 110px !important;
+}
+
+.task-listv2-assigned{
+    display: flex;
+    align-items: centeyr;
+    justify-content: space-between;
+}
+
+.task-listv2-id{
+    font-size: 0.8rem;
+    font-weight: 600;
+    color:rgba(0,0,0,0.7)
+}
+
+.task-number{
+    background-color: #006DEA;
+    color:#f7f7f7;
+    font-size: 0.6rem;
+    border-radius: 500px;
+    padding: 3px 6px;
+    margin-left: 5px;
+}
+
+.task-listv2-status{
+    font-size: 0.7rem;
+    font-weight: bold;
+    padding: 5px 15px;
+    border-radius: 2px;
+    text-transform: capitalize;
+}
+
+.status--assigned{
+    background-color:rgba(0, 109, 234, 0.2) ;
+    color:#006DEA;
+}
+
+.status--accepted{
+    background-color:rgba(41, 187, 137, 0.2) ;
+    color:#29BB89;
+}
+
+.status--rejected{
+    background-color:rgba(243, 36, 36, 0.2) ;
+    color:#F32424;
+}
+
+.task-listv2-title{
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.task-listv2-date, .task-listv2-address{
+ font-size: 0.6rem;
+ font-weight: 500;
+ color: rgba(0, 0, 0, 0.5);
+ margin: 5px 0;
+}
+
+.task-listv2-btn--container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.task-listv2-btn{
+    background-color: #006DEA;
+    color: white;
+    border: none;
+    font-weight: 600;
+    border-radius: 2px;
+    width: 45%;
+    margin: 0 5px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.6rem;
+    cursor: pointer;
+    padding: 5px 10px;
+}
+
+.status-select--input{
+    border: none;
+    width: 93px;
+    font-weight: bold;
+    font-size: 0.7rem;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+.status-select--input:focus{
+    outline: none;
+}
+
+.Accepted{
+    background-color: rgba(41, 187, 137, 0.2) ;
+    color:#29BB89;
+}
+
+.Progress{
+    background-color: rgba(250, 194, 19, 0.2)
+    ;
+color:#FAC213;
+}
+
+.Completed{
+    background-color: rgba(95, 208, 104, 0.2);
+color: #5FD068;
+}
+
+.status-select--input option {
+    font-weight: bold;
+}
+
+.default-select{
+    text-transform: capitalize !important;
+}
+
+

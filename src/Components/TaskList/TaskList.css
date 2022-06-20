@@ -1,0 +1,57 @@
+.talk-list--main-container{
+width: 95%;
+margin: 5px auto;
+border-radius: 4px;
+display: flex;
+align-items: center;
+border: 1.5px solid #006DEA;
+
+cursor: pointer;
+transition: all 0.2s linear;
+}
+
+.active-task--list{
+    border-bottom: 3px solid red;
+}
+
+.talk-list--main-container:hover{
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.2), 0 3px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.talk-list-container-one{
+    padding: 0 10px;
+}
+
+.talk-list-container-one p{
+    margin: 8px 0;
+    font-size: 0.7rem;
+    font-weight: 500;
+    color:rgba(0, 0, 0, 0.7)
+}
+
+.talk-list-container-two{
+    width: 3px;
+    border-radius: 500px;
+    height: 40px;
+ background-color: #006DEA;
+}
+
+.talk-list-container-three{
+    padding: 0 10px;
+}
+
+.talk-list-container-three p{
+margin: 8px 0;
+color:rgba(0, 0, 0, 0.7)
+}
+
+.talk-list--title{
+font-size: 0.9rem;
+font-weight: 500;
+}
+
+.talk-list--id{
+    font-size: 0.6rem;
+    font-weight: 600;
+    color:rgba(0, 0, 0, 0.5) !important
+}
